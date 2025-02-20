@@ -1,6 +1,6 @@
 # LS-LLaMA-NER-TR
 
-![Alt Text](https://postimg.cc/yJCsCb51)
+![](https://i.postimg.cc/mrtDCxyH/Whats-App-Image-2025-02-19-at-23-23-25.jpg)
 
 Inspired from [LS-LLaMA](https://github.com/4AI/LS-LLaMA)
 

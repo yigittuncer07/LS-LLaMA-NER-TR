@@ -1,5 +1,7 @@
 # LS-LLaMA-NER-TR
 
+![Alt Text](https://postimg.cc/yJCsCb51)
+
 Inspired from [LS-LLaMA](https://github.com/4AI/LS-LLaMA)
 
 Turkish Named Entity Recognition system using meta-llama's LLaMA 3.2B model with two distinct architectures:

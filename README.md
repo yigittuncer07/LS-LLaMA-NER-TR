@@ -34,18 +34,19 @@ pip install -r requirements.txt
 
 ## Configuration
 
-1. **Hugging Face Authentication** (Required for LLaMA access):
-```bash
+**Hugging Face Authentication** (Required for LLaMA access):
+``` bash
 huggingface-cli login
-``
+```
 
 ## Dataset Format
-```python
+``` python
 [
     {
         "tokens": ["İstanbul", "Büyükşehir", "Belediyesi", "'", ...],
         "tags": ["B-LOCATION", "I-LOCATION", "I-LOCATION", "O", ...]
     },
-    ...
+...
 ]
+...
 ```
